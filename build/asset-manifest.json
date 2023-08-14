@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7837e8d6.css",
+    "main.js": "/static/js/main.73e06218.js",
+    "static/media/iklan2.png": "/static/media/iklan2.ca4c12dcd1ac1d97f2b2.png",
+    "static/media/transfer.png": "/static/media/transfer.d35fbb6f676c842469b2.png",
+    "static/media/iklan1.png": "/static/media/iklan1.5d17dec249ebb3cea443.png",
+    "static/media/train.svg": "/static/media/train.ec5ed5b7f35329d87bf5ed8bbce5e181.svg",
+    "index.html": "/index.html",
+    "main.7837e8d6.css.map": "/static/css/main.7837e8d6.css.map",
+    "main.73e06218.js.map": "/static/js/main.73e06218.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7837e8d6.css",
+    "static/js/main.73e06218.js"
+  ]
+}
